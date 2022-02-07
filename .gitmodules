@@ -1,0 +1,3 @@
+[submodule "PCB/Rev1.2/libraries/homerow-logos"]
+	path = PCB/Rev1.2/libraries/homerow-logos
+	url = git@github.com:homerow-ca/homerow-logos.git

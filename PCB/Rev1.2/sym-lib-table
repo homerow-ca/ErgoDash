@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "ergodash-rescue")(type "Legacy")(uri "${KIPRJMOD}/ergodash-rescue.lib")(options "")(descr ""))
+  (lib (name "ergodash-cache")(type "Legacy")(uri "${KIPRJMOD}/ergodash-cache.lib")(options "")(descr ""))
+)
